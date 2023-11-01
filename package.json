@@ -1,0 +1,13 @@
+{
+  "name": "lessons-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Oleg Ivinskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^15.11.0",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-order": "^6.0.3"
+  }
+}
