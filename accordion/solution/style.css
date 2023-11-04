@@ -1,0 +1,16 @@
+.acc__top {
+  border: 1px solid lightcoral;
+}
+
+.acc__content {
+  border: 1px solid blue;
+}
+
+.acc__content:not(.open) {
+  display: none;
+}
+
+span {
+  display: inline-block;
+  border: 1px solid red;
+}
