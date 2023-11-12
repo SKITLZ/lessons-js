@@ -1,0 +1,14 @@
+body {
+  font-size: 22px;
+}
+
+.item {
+  padding: 10px 0;
+  border: 1px solid red;
+}
+
+.name,
+.description,
+.price {
+  margin: 0 auto;
+}
